@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "E:\\SportStore-Controller.Based\\SportsSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\sportsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\sportsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\components\\navigationmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\components\\navigationmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,35 +19,67 @@
       "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{240E7E42-D7D6-49AA-B073-4DE62E7E8F97}|SportsStore.Tests\\SportsStore.Tests.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240E7E42-D7D6-49AA-B073-4DE62E7E8F97}|SportsStore.Tests\\SportsStore.Tests.csproj|solutionrelative:sportsstore.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\models\\viewmodels\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\viewmodels\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\models\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\models\\efstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\efstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\7amed\\AppData\\Local\\SourceServer\\0e0b59802587d2bc7f16fa81292fda63e180b85eab89378161037348700d2f6f\\src\\EFCore.Relational\\Storage\\RelationalConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\models\\efstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\efstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\sportsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\sportsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\models\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\7amed\\AppData\\Local\\SourceServer\\0e0b59802587d2bc7f16fa81292fda63e180b85eab89378161037348700d2f6f\\src\\EFCore.Relational\\Storage\\RelationalConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1576DB31-D6A8-4D57-90F2-051446C7D5A6}|SportsStore\\SportsStore.csproj|e:\\sportstore-controller.based\\sportssln\\sportsstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -89,30 +97,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 57,
+          "SelectedChildIndex": 62,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SportsStore\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SportsStore\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T11:24:36.024Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "HomeControllerTests.cs",
               "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore.Tests\\HomeControllerTests.cs",
               "RelativeDocumentMoniker": "SportsStore.Tests\\HomeControllerTests.cs",
               "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore.Tests\\HomeControllerTests.cs",
               "RelativeToolTip": "SportsStore.Tests\\HomeControllerTests.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAgwBMAAAAgAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T02:57:16.457Z",
               "IsPinned": true
@@ -339,68 +347,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "libman.json",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\libman.json",
-              "RelativeDocumentMoniker": "SportsStore\\libman.json",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\libman.json",
-              "RelativeToolTip": "SportsStore\\libman.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-22T06:57:05.213Z",
+              "DocumentIndex": 1,
+              "Title": "NavigationMenuViewComponent.cs",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "RelativeToolTip": "SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:23:28.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Program.cs",
-              "RelativeDocumentMoniker": "SportsStore\\Program.cs",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Program.cs",
-              "RelativeToolTip": "SportsStore\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T10:06:59.69Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "SportsStore\\Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "SportsStore\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T11:20:23.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "SportsStore\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "SportsStore\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T11:15:59.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PageLinkTagHelper.cs",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
-              "RelativeDocumentMoniker": "SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
-              "RelativeToolTip": "SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAzwCgAAAA/AAAA",
+              "Title": "ProductsListViewModel.cs",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "RelativeToolTip": "SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T03:29:03.871Z"
+              "WhenOpened": "2024-04-22T03:38:48.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "PagingInfo.cs",
               "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\ViewModels\\PagingInfo.cs",
               "RelativeDocumentMoniker": "SportsStore\\Models\\ViewModels\\PagingInfo.cs",
@@ -412,67 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\appsettings.json",
-              "RelativeDocumentMoniker": "SportsStore\\appsettings.json",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\appsettings.json",
-              "RelativeToolTip": "SportsStore\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-20T10:01:29.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SportsStore.csproj",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\SportsStore.csproj",
-              "RelativeDocumentMoniker": "SportsStore\\SportsStore.csproj",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\SportsStore.csproj",
-              "RelativeToolTip": "SportsStore\\SportsStore.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-20T11:17:11.546Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SportsStore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T11:22:35.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SportsStore\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SportsStore\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T11:27:31.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IStoreRepository.cs",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\IStoreRepository.cs",
-              "RelativeDocumentMoniker": "SportsStore\\Models\\IStoreRepository.cs",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\IStoreRepository.cs",
-              "RelativeToolTip": "SportsStore\\Models\\IStoreRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T11:52:32.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "EFStoreRepository.cs",
               "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\EFStoreRepository.cs",
               "RelativeDocumentMoniker": "SportsStore\\Models\\EFStoreRepository.cs",
@@ -484,43 +396,164 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductsListViewModel.cs",
-              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
-              "RelativeDocumentMoniker": "SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
-              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
-              "RelativeToolTip": "SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T03:38:48.008Z"
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T11:22:35.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Program.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Program.cs",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Program.cs",
+              "RelativeToolTip": "SportsStore\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAnwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:06:59.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SeedData.cs",
               "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "SportsStore\\Models\\SeedData.cs",
               "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\SeedData.cs",
               "RelativeToolTip": "SportsStore\\Models\\SeedData.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwC0AAAAjAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwC8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T03:15:58.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
+              "Title": "PageLinkTagHelper.cs",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "RelativeToolTip": "SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwCcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:29:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T11:27:31.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\Product.cs",
               "RelativeDocumentMoniker": "SportsStore\\Models\\Product.cs",
               "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\Product.cs",
               "RelativeToolTip": "SportsStore\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T11:29:17.134Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductSummary.cshtml",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T08:08:12.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T11:15:59.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T11:20:23.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "libman.json",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\libman.json",
+              "RelativeDocumentMoniker": "SportsStore\\libman.json",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\libman.json",
+              "RelativeToolTip": "SportsStore\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T06:57:05.213Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\appsettings.json",
+              "RelativeDocumentMoniker": "SportsStore\\appsettings.json",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\appsettings.json",
+              "RelativeToolTip": "SportsStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T10:01:29.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SportsStore.csproj",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\SportsStore.csproj",
+              "RelativeDocumentMoniker": "SportsStore\\SportsStore.csproj",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\SportsStore.csproj",
+              "RelativeToolTip": "SportsStore\\SportsStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T11:17:11.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\IStoreRepository.cs",
+              "ToolTip": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Models\\IStoreRepository.cs",
+              "RelativeToolTip": "SportsStore\\Models\\IStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:52:32.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "RelationalConnection.cs",
               "DocumentMoniker": "C:\\Users\\7amed\\AppData\\Local\\SourceServer\\0e0b59802587d2bc7f16fa81292fda63e180b85eab89378161037348700d2f6f\\src\\EFCore.Relational\\Storage\\RelationalConnection.cs",
               "ToolTip": "C:\\Users\\7amed\\AppData\\Local\\SourceServer\\0e0b59802587d2bc7f16fa81292fda63e180b85eab89378161037348700d2f6f\\src\\EFCore.Relational\\Storage\\RelationalConnection.cs",
@@ -530,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\appsettings.Development.json",
               "RelativeDocumentMoniker": "SportsStore\\appsettings.Development.json",
@@ -542,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SportsStore\\Properties\\launchSettings.json",
