@@ -10,12 +10,31 @@ builder.Services.AddDbContext<StoreDbContext>(opts => {
     builder.Configuration["ConnectionStrings:SportsStoreConnection"]);
 });
 builder.Services.AddScoped<IStoreRepository<Product>, EFStoreRepository>();
+
+
+
 var app = builder.Build();
 app.UseStaticFiles();
-app.MapControllerRoute("pagination", "Products/page{productPage}", new { Controller = "Home", Action = "Index" });
-//app.MapControllerRoute("pagination",
-//"Products/Page{productPage}",
-//new { Controller = "Home", action = "Index" });
+app.MapControllerRoute("default",
+    "{Controller}/{Index}",
+    new { Controller = "Home", Action = "Index" });
+
+app.MapControllerRoute("pageCat",
+    "{category}/Page{productPage:int}", 
+    new { Controller = "Home", Action = "Index"});
+
+app.MapControllerRoute("page", 
+    "page{productPage:int}", 
+    new { Controller = "Home", Action = "Index" , productPage = 1 });
+
+app.MapControllerRoute("category",
+    "{category}",
+    new { Controller = "Home", Action = "Index", productPage = 1 });
+
+app.MapControllerRoute("pagination",
+    "Products/page{productPage:int}",
+    new { Controller = "Home", Action = "Index" });
+
 app.MapDefaultControllerRoute();
 SeedData.EnsurePopulated(app);
 
