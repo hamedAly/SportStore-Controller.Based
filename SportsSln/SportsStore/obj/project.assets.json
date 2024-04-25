@@ -1971,24 +1971,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\7amed\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\haly\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "D:\\Hamed\\SportStore-Controller.Based\\SportsSln\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\SportsStore.csproj",
-      "packagesPath": "C:\\Users\\7amed\\.nuget\\packages\\",
-      "outputPath": "E:\\SportStore-Controller.Based\\SportsSln\\SportsStore\\obj\\",
+      "projectPath": "D:\\Hamed\\SportStore-Controller.Based\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "packagesPath": "C:\\Users\\haly\\.nuget\\packages\\",
+      "outputPath": "D:\\Hamed\\SportStore-Controller.Based\\SportsSln\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\7amed\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\haly\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2008,11 +2003,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2049,7 +2039,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
